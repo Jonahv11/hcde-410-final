@@ -1,0 +1,8 @@
+I am hoping to gauge some aspect of how much people give a shit about climate change. In this project, I am making the assumption that most people who care about climate change see driving an electric vehicle as a step in the right direction, rather than being aware of the exploitative industry involving lithium and cobalt mining and refusing to partake in that economy. 
+With this project, I want to first look at concentrations of people who own electric vehicles by slicing open the dataset that I talked about in the description file. Then I plan on comparing this data to other data about people in Washington state, such as voting records or tax information.
+An example of a research question for each of these routes of inquiry would be:
+How does electric vehicle ownership align with the typical voter distribution of a region within Washington state?
+How does electric vehicle ownership compare to income and other tax information by region in Washington state?
+And each hypothesis:
+In areas with more democratic and green party voters, there will be higher electric vehicle ownership, and vice versa for areas with more republican and libertarian voters.
+Wealthier areas surrounding urban zones will have higher rates of electric vehicle ownership than poorer rural areas.
