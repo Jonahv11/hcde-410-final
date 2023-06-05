@@ -1,1 +1,2 @@
 # hcde-410-final
+Data is sourced from the Washington State DOL. Dataset has 17 columns and 124716 rows, each row being an electric vehicle purchased and licensed by a Washington State resident. Each column contains information about the vehicle, the purchaser, or the purchase itself.
